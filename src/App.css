@@ -1,0 +1,19 @@
+#Layout {
+  height: 100vh;
+}
+#Header .logo {
+  height: 31px;
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+#Header .Menu {
+  line-height: 64px;
+}
+
+#content {
+  padding: 0 50px;
+}
+
+#Footer {
+  position: sticky;
+}
